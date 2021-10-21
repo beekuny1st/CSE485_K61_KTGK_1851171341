@@ -1,0 +1,28 @@
+.nani{
+    background-color: rgb(255, 236, 202);
+}
+.btn-web{
+    margin: 1%;
+}
+p{
+    margin:10px;
+}
+.txt{
+    color: rgb(233, 233, 233);
+    font-family: 'Lobster', cursive;
+}
+.form-txt{
+    width: 60%;   
+    margin: 0px auto;
+    margin-bottom: 20px; 
+}
+.icon{
+    color: white;
+    margin: 5%;
+}
+.edit:hover{
+    color: green;
+}
+.delete:hover{
+    color: red;
+}
